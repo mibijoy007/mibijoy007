@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mibijoy007
-- 🌱 Learning new things everyday and trying to share\
-- 📫 How to reach me ...
+- 👋 Hi, I’m Maksudul Islam
+- Reach me @...
 
 https://www.linkedin.com/in/mibijoy/
 
